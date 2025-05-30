@@ -13,58 +13,59 @@
 
 ### 🛠️ Tools & Technologies
 
-<!-- Programming Languages -->
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" width="40" height="40" alt="Java"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Scala_logo.svg" width="40" height="40" alt="Scala"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Bash_Logo_Colored.svg" width="40" height="40" alt="Bash"/>
 
-<!-- Machine Learning & Deep Learning -->
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+  <!-- Machine Learning & Deep Learning -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" width="40" height="40" alt="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Keras_logo.svg" width="40" height="40" alt="Keras"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/PyTorch_logo.svg" width="40" height="40" alt="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_logo.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Numpy_logo.svg" width="40" height="40" alt="Numpy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Matplotlib_logo.svg" width="40" height="40" alt="Matplotlib"/>
 
-<!-- Generative AI & LLMs -->
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![AudioCraft](https://img.shields.io/badge/AudioCraft-8A2BE2?style=for-the-badge&logo=meta&logoColor=white)
+  <!-- Generative AI & LLMs -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Hugging_Face_logo.svg" width="40" height="40" alt="Hugging Face"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/AudioCraft_logo.svg" width="40" height="40" alt="AudioCraft"/>
 
-<!-- MLOps & CI/CD -->
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
-![CML](https://img.shields.io/badge/CML-F9A03C?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+  <!-- MLOps & CI/CD -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/MLflow_logo.svg" width="40" height="40" alt="MLflow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/DVC_logo.svg" width="40" height="40" alt="DVC"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/CML_logo.svg" width="40" height="40" alt="CML"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_logo.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Kubernetes_logo.svg" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/FastAPI_logo.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Terraform_logo.svg" width="40" height="40" alt="Terraform"/>
 
-<!-- Data Engineering -->
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FC6D26?style=for-the-badge&logo=dbt&logoColor=white)
+  <!-- Data Engineering -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Apache_Airflow_logo.svg" width="40" height="40" alt="Apache Airflow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Apache_Spark_logo.svg" width="40" height="40" alt="Apache Spark"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Azure_Logo.svg" width="40" height="40" alt="Azure Data Factory"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Apache_Kafka_logo.svg" width="40" height="40" alt="Kafka"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/DBT_logo.svg" width="40" height="40" alt="dbt"/>
 
-<!-- Cloud Platforms -->
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-E87722?style=for-the-badge&logo=databricks&logoColor=white)
+  <!-- Cloud Platforms -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Microsoft_Azure_Logo.svg" width="40" height="40" alt="Azure"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" width="40" height="40" alt="GCP"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Databricks_logo.svg" width="40" height="40" alt="Databricks"/>
 
-<!-- Databases & Storage -->
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+  <!-- Databases & Storage -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/MySQL_logo.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/MongoDB_logo.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Snowflake_logo.svg" width="40" height="40" alt="Snowflake"/>
 
-<!-- Monitoring & Visualization -->
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+  <!-- Monitoring & Visualization -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Grafana_logo.svg" width="40" height="40" alt="Grafana"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Prometheus_logo.svg" width="40" height="40" alt="Prometheus"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Tableau_Logo.svg" width="40" height="40" alt="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Power_BI_logo.svg" width="40" height="40" alt="Power BI"/>
+</p>
 
 
 
