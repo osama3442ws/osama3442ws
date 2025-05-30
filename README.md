@@ -34,7 +34,7 @@
   <!-- Transformers icon not official in devicon, so omitted -->
 
   <!-- MLOps & CI/CD -->
-  <img src="https://mlflow.org/images/MLflow-logo-final-black.png" width="80" alt="MLflow"/>
+  <img src="https://brandfetch.com/mlflow.org/logo.svg" width="80" alt="MLflow"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dvc/dvc-original.svg" width="40" height="40" alt="DVC"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
