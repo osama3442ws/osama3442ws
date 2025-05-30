@@ -33,13 +33,10 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="Numpy"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib"/></td>
     <td><img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="40" alt="Scikit-learn"/></td>
-    <td><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" alt="Hugging Face"/></td>
   </tr>
 
   <!-- MLOps -->
   <tr>
-    <td><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="40" alt="MLflow"/></td>
-    <td><img src="https://dvc.org/static/img/logo.png" width="40" alt="DVC"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/></td>
   </tr>
@@ -73,6 +70,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" alt="Power BI"/></td>
   </tr>
 </table>
+
 
 
 
