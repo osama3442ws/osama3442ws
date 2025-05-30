@@ -34,9 +34,7 @@
   <!-- Transformers icon not official in devicon, so omitted -->
 
   <!-- MLOps & CI/CD -->
-  <img src="[https://yourdomain.com/images/mlflow-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40jordioltra2%2Fmlflow-quick-start-guide-b556fff4e218&psig=AOvVaw2UamwKN_QYmnXDJ-8rN58c&ust=1748671554696000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiNlPrDyo0DFQAAAAAdAAAAABAK)" width="40" height="40" alt="MLflow"/>
-
-
+  <img src="https://mlflow.org/images/logo.svg" width="40" height="40" alt="MLflow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dvc/dvc-original.svg" width="40" height="40" alt="DVC"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
