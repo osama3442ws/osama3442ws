@@ -15,56 +15,54 @@
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" width="40" height="40" alt="Java"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Scala_logo.svg" width="40" height="40" alt="Scala"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Bash_Logo_Colored.svg" width="40" height="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" height="40" alt="Scala"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
 
   <!-- Machine Learning & Deep Learning -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Keras_logo.svg" width="40" height="40" alt="Keras"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/PyTorch_logo.svg" width="40" height="40" alt="PyTorch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_logo.svg" width="40" height="40" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Numpy_logo.svg" width="40" height="40" alt="Numpy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Matplotlib_logo.svg" width="40" height="40" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" alt="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="Numpy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
 
   <!-- Generative AI & LLMs -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Hugging_Face_logo.svg" width="40" height="40" alt="Hugging Face"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/AudioCraft_logo.svg" width="40" height="40" alt="AudioCraft"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" width="40" height="40" alt="Hugging Face"/>
+  <!-- Transformers icon not official in devicon, so omitted -->
 
   <!-- MLOps & CI/CD -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/MLflow_logo.svg" width="40" height="40" alt="MLflow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/DVC_logo.svg" width="40" height="40" alt="DVC"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/CML_logo.svg" width="40" height="40" alt="CML"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_logo.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Kubernetes_logo.svg" width="40" height="40" alt="Kubernetes"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/FastAPI_logo.svg" width="40" height="40" alt="FastAPI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Terraform_logo.svg" width="40" height="40" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="40" height="40" alt="MLflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dvc/dvc-original.svg" width="40" height="40" alt="DVC"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
 
   <!-- Data Engineering -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Apache_Airflow_logo.svg" width="40" height="40" alt="Apache Airflow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Apache_Spark_logo.svg" width="40" height="40" alt="Apache Spark"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Azure_Logo.svg" width="40" height="40" alt="Azure Data Factory"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Apache_Kafka_logo.svg" width="40" height="40" alt="Kafka"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/DBT_logo.svg" width="40" height="40" alt="dbt"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Apache Airflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg" width="40" height="40" alt="Apache Spark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" width="40" height="40" alt="Kafka"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" width="40" height="40" alt="dbt"/>
 
   <!-- Cloud Platforms -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="AWS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Microsoft_Azure_Logo.svg" width="40" height="40" alt="Azure"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Cloud_logo.svg" width="40" height="40" alt="GCP"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Databricks_logo.svg" width="40" height="40" alt="Databricks"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="40" height="40" alt="Databricks"/>
 
   <!-- Databases & Storage -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/MySQL_logo.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/MongoDB_logo.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Snowflake_logo.svg" width="40" height="40" alt="Snowflake"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="40" height="40" alt="Snowflake"/>
 
   <!-- Monitoring & Visualization -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Grafana_logo.svg" width="40" height="40" alt="Grafana"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Prometheus_logo.svg" width="40" height="40" alt="Prometheus"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Tableau_Logo.svg" width="40" height="40" alt="Tableau"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Power_BI_logo.svg" width="40" height="40" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" alt="Prometheus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40" alt="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40" alt="Power BI"/>
 </p>
 
 
