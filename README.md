@@ -1,13 +1,31 @@
-👋 Hi there! I'm Osama, a passionate Data Engineer and DevOps enthusiast with hands-on experience in data pipelines, network analysis, and system automation.  
-🎓 Graduated from Zagazig University – Mechatronics Engineering, Class of 2024.  
-🚀 Interned at Ericsson, where I worked on 4G network performance analysis and built ML models to forecast traffic growth in Saudi Arabia using TensorFlow, Keras, and Tableau.  
-📊 Skilled in building ETL pipelines, working with tools like pandas, NumPy, and data visualization libraries.  
-💡 Completed the "Digital Egypt Pioneers Initiative" (DEPI) – a 6-month tech scholarship by the Ministry of Communications, focused on AI & Data Technologies.  
-🔧 Currently expanding my DevOps knowledge with tools like Docker, CI/CD, and cloud platforms (AWS, GCP, Azure).  
-🖥️ Strong foundation in Linux System Administration, Networking, and Cloud Infrastructure.  
-⚙️ Interested in bridging the gap between data engineering and DevOps to build scalable and efficient data systems.
+<h1 align="center">Hi 👋, I'm Osama</h1>
+<h3 align="center">Data Engineer & DevOps Enthusiast</h3>
 
-Let’s connect and collaborate!
+- 🎓 Graduated from **Zagazig University** – Mechatronics Engineering (2024)  
+- 🚀 AI & Data Science Intern @ **Ericsson** (July–Sept 2024)  
+- 📊 Final Project: **4G Network Performance Analysis and Forecasting in Saudi Arabia** using TensorFlow, Keras, pandas, Tableau  
+- 🎓 Completed the **Digital Egypt Pioneers Initiative (DEPI)** – AI & Data Technologies track  
+- 🔧 Currently learning: **DevOps tools** like Docker, CI/CD, and Cloud platforms (AWS, GCP, Azure)  
+- 🐧 Strong in **Linux System Administration**, networking, and cloud infrastructure  
+- 💡 Passionate about building data pipelines, automating workflows, and solving real-world problems with data  
+
+### 🛠️ Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamashalan/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osamashalan3@gmail.com)
+
+---
+
+_“Always learning. Always building.”_
 
 
 <!---
