@@ -35,7 +35,7 @@
 
   <!-- MLOps & CI/CD -->
   <img src="https://mlflow.org/images/logo.svg" width="40" height="40" alt="MLflow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dvc/dvc-original.svg" width="40" height="40" alt="DVC"/>
+  <img src="https://dvc.org/static/img/logo.png" width="40" height="40" alt="DVC"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
