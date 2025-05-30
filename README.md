@@ -71,7 +71,7 @@
 
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/osama-shalan-65466023b])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/osama-shalan-65466023b)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[osamashalan3@gmail.com])
 
 ---
